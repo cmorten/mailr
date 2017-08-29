@@ -1,0 +1,7 @@
+Dear {{NAME}},
+
+Thanks for letting me test on your email {{EMAIL}} ({{NAME}}) so I can get this working, it's much appreciated :)
+
+Best Wishes,
+
+Craig

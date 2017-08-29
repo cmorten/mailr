@@ -1,0 +1,16 @@
+{
+    "name": "mailr",
+    "version": "0.0.1",
+    "description": "A tool for emailing peeps",
+    "author": "Craig Morten <craig.morten@hotmail.co.uk>",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "flags": "^0.1.3",
+        "nodemailer": "^4.1.0"
+    },
+    "devDependencies": {},
+    "private": false,
+    "license": "Apache 2"
+}

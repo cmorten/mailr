@@ -1,0 +1,10 @@
+{
+    "account": {
+        "username": "craig.morten@hotmail.co.uk",
+        "password": "Jq24m*pN"
+    },
+    "server": {
+        "host": "smtp.live.com",
+        "port": 587
+    }
+}
