@@ -1,10 +1,10 @@
 {
     "account": {
-        "username": "craig.morten@hotmail.co.uk",
-        "password": "Jq24m*pN"
+        "username": "person@mail.com",
+        "password": "*****"
     },
     "server": {
-        "host": "smtp.live.com",
+        "host": "outlook.office365.com",
         "port": 587
     }
 }

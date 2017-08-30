@@ -50,5 +50,15 @@ For emailing a list from a csv
 ## Usage
 
 ```
-node app.js --file "names.csv" --subject "Hello {{NAME}}" --text "email.txt" --footer "footer.html"
+node app.js [ARGS]
+
+Arguments:
+    --users     (Required) Path to the CSV file containing the users list.
+    --subject   (Required) The templated email subject line to send.
+    --body      (Required) Path to the file containing the email body text to send.
+    --footer    (Optional) Path to the file containing the email footer to send. This will only be added if HTML email format is supported.
+
+Example Usage:
+
+    node app.js --users "names.csv" --subject "Hello {{NAME}}" --body "email.txt" --footer "footer.html"
 ```
